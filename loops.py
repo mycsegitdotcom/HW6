@@ -2,7 +2,7 @@
 # CSE 3 Fall 2017, Homework 6
 # Loops.py: Explores loops in Python
 '''
-dogs = ["shiba inu", "corgi", "golden retriever", "daschund"]
+dogs = ["Shiba Inu", "Corgi", "Golden Retriever", "Daschund", "Siberian Husky"]
 
 for dog in dogs:
 	print(dog)
